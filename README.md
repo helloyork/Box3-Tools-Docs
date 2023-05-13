@@ -24,4 +24,4 @@ description: 欢迎来到Box3-Tools
 [box3-tools](lib/box3-tools/)
 {% endcontent-ref %}
 
-[^1]: 
+[^1]: 官方教程指的是官方发布的教程中所使用的示例代码
