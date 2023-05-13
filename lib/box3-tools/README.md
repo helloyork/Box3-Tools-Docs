@@ -10,8 +10,8 @@ description: 总仓库
 
 官方在教程中所使用到的示例代码
 
-{% content-ref url="guan-fang-jiao-cheng.md" %}
-[guan-fang-jiao-cheng.md](guan-fang-jiao-cheng.md)
+{% content-ref url="guan-fang-jiao-cheng/" %}
+[guan-fang-jiao-cheng](guan-fang-jiao-cheng/)
 {% endcontent-ref %}
 
 ## 模板代码
